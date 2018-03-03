@@ -1,0 +1,10 @@
+D:\VS programs\EasyDrawing\EasyDrawing\bin\Debug\EasyDrawing.exe.config
+D:\VS programs\EasyDrawing\EasyDrawing\bin\Debug\EasyDrawing.exe
+D:\VS programs\EasyDrawing\EasyDrawing\bin\Debug\EasyDrawing.pdb
+D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.csprojResolveAssemblyReference.cache
+D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.Properties.Resources.resources
+D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.csproj.GenerateResource.Cache
+D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.csproj.CoreCompileInputs.cache
+D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.exe
+D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.pdb
+D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.Main_Form.resources
