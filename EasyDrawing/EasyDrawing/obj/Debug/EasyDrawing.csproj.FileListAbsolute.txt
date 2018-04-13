@@ -8,3 +8,13 @@ D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.csproj.CoreCompileI
 D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.exe
 D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.pdb
 D:\VS programs\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.Main_Form.resources
+d:\GitHub\EasyDrawing\EasyDrawing\bin\Debug\EasyDrawing.exe.config
+d:\GitHub\EasyDrawing\EasyDrawing\bin\Debug\EasyDrawing.exe
+d:\GitHub\EasyDrawing\EasyDrawing\bin\Debug\EasyDrawing.pdb
+d:\GitHub\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.csprojResolveAssemblyReference.cache
+d:\GitHub\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.Main_Form.resources
+d:\GitHub\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.Properties.Resources.resources
+d:\GitHub\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.csproj.GenerateResource.Cache
+d:\GitHub\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.csproj.CoreCompileInputs.cache
+d:\GitHub\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.exe
+d:\GitHub\EasyDrawing\EasyDrawing\obj\Debug\EasyDrawing.pdb

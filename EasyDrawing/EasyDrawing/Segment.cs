@@ -8,16 +8,19 @@ using System.Windows.Forms;
 
 namespace EasyDrawing
 {
-    partial class Star : Shape
+    class Segment : Shape
     {
-        Point[] star;
         public override void Navigate(object sender, PaintEventArgs e)
         {
-            //e.Graphics.DrawPolygon(pen, star);
+            e.Graphics.DrawLine(pen, first, last);
         }
         public override void Draw(Graphics g)
         {
-            //g.DrawPolygon(pen, star);
+            g.DrawLine(pen, first, last);
+        }
+        public override void DrawInstant(Graphics g)
+        {
+            g.DrawLine(pen, first, last);
         }
     }
 }
